@@ -17,6 +17,6 @@ Oxford University Press recently announced the 2022 word of the year as voted on
 - Introduce some of the goblin characters.
 - Different culture between the countries.
 - Contact.
-## Demo
+## How to run the project? (Demo)
 
 https://youtu.be/DV2gQ7Z-E0k
